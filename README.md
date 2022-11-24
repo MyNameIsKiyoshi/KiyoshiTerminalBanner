@@ -12,10 +12,10 @@
   />
   </div>
  
-  <div align="center">
+  <div align="left">
     <img
     width="356"
-    align="center"
+    align="left"
     src="https://raw.githubusercontent.com/mynameiskiyoshi/mynameiskiyoshi/main/github-metrics.svg"
     />
   </div>
