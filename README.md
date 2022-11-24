@@ -12,11 +12,13 @@
   />
   </div>
  
-  <img
+  <div align="center">
+    <img
     width="356"
-    align="left"
+    align="center"
     src="https://raw.githubusercontent.com/mynameiskiyoshi/mynameiskiyoshi/main/github-metrics.svg"
     />
+  </div>
  </a>
   <a href="https://api.daily.dev/get?r=mynameiskiyoshi" target="_blank">
 
